@@ -59,23 +59,23 @@ Patient Table
 ## Instructions
 
 1. **Get all doctors:** Create a route to get all doctors.
-![1.png](../../../Pictures/LAB/1.png)
+![1.png](1.png)
 2. **Get doctor by ID:** Create a route to get a doctor by `employee_id`.
-![2.png](../../../Pictures/LAB/2.png)
+![2.png](2.png)
 3. **Get doctors by status:** Create a route to get doctors by `status`.
-![3.png](../../../Pictures/LAB/3.png)
+![3.png](3.png)
 4. **Get doctors by department:** Create a route to get doctors by `department`.
-![4.png](../../../Pictures/LAB/4.png)
+![4.png](4.png)
 5. **Get all patients:** Create a route to get all patients.
-![5.png](../../../Pictures/LAB/5.png)
+![5.png](5.png)
 6. **Get patient by ID:** Create a route to get a patient by `patient_id`.
-![6.png](../../../Pictures/LAB/6.png)
+![6.png](6.png)
 7. **Get patients by date of birth range:** Create a route to get patients date of birth within a specified range.
-![7.png](../../../Pictures/LAB/7.png)
+![7.png](7.png)
 8. **Get patients by admitting doctor's department:** Create a route to get patients by the department that their admitting doctor is in (For example, get all patients admitted by a doctor in cardiology).
-![8.png](../../../Pictures/LAB/8.png)
+![8.png](8.png)
 9. **Get all patients with a doctor whose status is OFF:** Create a route to get all patients with a doctor whose `status` is OFF.
-![9.png](../../../Pictures/LAB/9.png)
+![9.png](9.png)
 <br>
 
 ## Additional Testing Reminder
